@@ -1,13 +1,13 @@
-### About
+### ℹ️ About
 This is a fork of [tomnomnom/comb](https://github.com/tomnomnom/hacks/tree/master/comb) with this PR Added: https://github.com/tomnomnom/hacks/pull/41
 
-### Installation
+### 🖳 Installation
 Use [soar](https://github.com/pkgforge/soar) & Run:
 ```bash
 soar add 'comb#github.com.pkgforge-security.comb'
 ```
 
-### Usage
+### 🧰 Usage
 ```mathematica
 ❯ comb --help
 Combine the lines from two files in every combination
